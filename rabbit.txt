@@ -1,0 +1,10 @@
+Hello, Rabbit. Would you like kale
+
+Rabbit?
+
+1. Change file
+2. Save file
+3. git add . 
+4. git status (what do I see?)
+5. git commit -m "i made changes"
+6. git push
